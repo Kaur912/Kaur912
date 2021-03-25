@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manpreet Kaur
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning to make websites
-- 💞️ I’m looking to collaborate on learning how to code..
+- 💞️ I’m looking to collaborate on a blog..
 - 📫 You can reach me on manpreetkaurks2@gmail.com
 
 <!---
